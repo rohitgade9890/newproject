@@ -1,0 +1,7 @@
+configkuration of git
+
+git config --global user.name rohitgade9890  = to connect to git account
+
+git config --global user.email rohitarungade@gmail.com
+
+git config --list
