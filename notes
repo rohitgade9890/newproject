@@ -11,3 +11,5 @@ git clone https://github.com/rohitgade9890/newproject.git   = to clone data pres
 git push origin main
 
 git commit -m  "enter a massage"
+
+adding few lines using git cmd
