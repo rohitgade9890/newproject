@@ -5,3 +5,9 @@ git config --global user.name rohitgade9890  = to connect to git account
 git config --global user.email rohitarungade@gmail.com
 
 git config --list
+
+git clone https://github.com/rohitgade9890/newproject.git   = to clone data present in repo of github
+
+git push origin main
+
+git commit -m  "enter a massage"
